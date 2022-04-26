@@ -31,6 +31,11 @@
   }
 }
 
+#app__sidebar {
+  transform: translateX(500px);
+  transition: all ease-in-out 0.75s;
+}
+
 .app__navbar-links {
   flex: 1;
   display: flex;
